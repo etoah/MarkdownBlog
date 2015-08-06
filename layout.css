@@ -1,0 +1,8 @@
+#sub-outline
+{
+	position:fixed;
+}
+
+div.navbar-fixed-top, div.navbar-fixed-bottom {
+  position: absolute;
+  }
